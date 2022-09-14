@@ -1,0 +1,11 @@
+body {
+    background-color: #d7d7da;
+}
+
+.closeHelloWindow {
+    max-width: 35px;
+    border-radius: 3px;
+    background-color: #fff;
+    margin: 2px;
+    font-size: 18px;
+}
